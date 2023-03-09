@@ -1,0 +1,1 @@
+This file is a store of all your conversations with chatgpt-3.5-turbo. AFter you type the "bye" command to exit the script, your message history is appended to this file with the datetime of the end of the conversation.
