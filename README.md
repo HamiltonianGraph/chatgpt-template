@@ -17,7 +17,7 @@ Built for Python 3.10
 
 3) Run the chatgpt_connect.py script
 
-4) Enter a setup prompt for the system (this sets the "system" variable in the message, giving overall guidance to the model)
+4) Enter a setup prompt for the system (this sets the "system" variable in the message, giving overall guidance to the model
 
 5) Converse with the model user when prompted.
   
